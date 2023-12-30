@@ -21,6 +21,7 @@
 
 ```
 git clone https://github.com/hariagre/Random_Password_Generator.git
+git clone https://github.com/hariagre/Random_Password_Generator.git
 ```
 
 - Go to the directory
